@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+<link rel="icon" href="/Users/sahilchadha/Downloads/project/favicon.ico" type="image/x-icon">
+	<style>
+h1{
+	font-family: Arial;
+	font-weight: 120;
+}
+.a {
+	font-family: Arial;
+	color: #2f9e44;
+}
+p{
+	font-family: Arial;
+}
+.b{
+	font-family: Arial;
+	color: #3482c9;
+}
+ul {
+	font-family: Arial;
+	 text-align: left;
+padding-left: 20px;
+}
+div{
+	font-family: Arial;
+}
+.box{
+margin: auto;
+border: 2px solid black;
+margin-top: 0px;
+padding-top: 0px;
+padding: 30px;
+height: 89vh;
+width: fit-content;
+font-size: 10pt;
+line-height: 17px;
+}
+hr {
+  border: none;
+  border-top: 3px solid #333333;
+  color: #333333;
+  overflow: visible;
+  text-align: center;
+
+}
+	</style>
+</head>
+<body>
+	<div class="box">
+<hr style="height:5px;width:70%;text-align:left;margin-left:0;">
+		<h1>Your Name</h1>
+		<p class="a">Juniour Fronted Developer</p>
+		<p>123 Your Street <br>
+			Your City, ST 12345 <br>
+			(123) 456-7890 <br>
+			no_reply@example.com</p>
+			<p class="a"> Skill </p>
+			<p>
+				HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, <br>Technical Writing, Presentation
+			</p>
+			<p class="a">Education</p>
+			<p> 
+				<div class="b"> School Name, Location - Degree </div>
+				Month 20xx to Month 20xx <br>
+				List of exciting things you did at university</p>
+				<p class="a">
+					Experience
+				</p>
+				<p>
+					<div class="b"> Company Name, Location - Job Title</div>
+					Month 20xx to Month 20xx
+					<ul>
+						<li>List of achievements</li>
+						<li>List of achievements</li>
+						<li>List of achievements</li>
+					</ul>
+					<div>Skills: List of skills used or gained at this company</div>
+				</p>
+				<p>
+					<div class="b"> Company Name, Location - Job Title</div>
+					Month 20xx to Month 20xx
+					<ul>
+						<li>List of achievements</li>
+						<li>List of achievements</li>
+						<li>List of achievements</li>
+					</ul>
+					<div>Skills: List of skills used or gained at this company</div>
+				</p>
+				<p>
+					<div class="a">Across the Internet</div> 
+					<div>Add your LinkedIn, GitHub profile links</div>
+				</p>
+				<meta property="og:title" content="Open Graph Meta Tags: Everything You Need to Know" >
+				<meta property="og:url" content="https://ahrefs.com/blog/open-graph-meta-tags/" />
+			</div>
+
+	
+</body>
+
+</html>
